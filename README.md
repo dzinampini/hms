@@ -30,13 +30,20 @@ Admin -
 General User - 
 
 ## Credentials
-Role 				Username			Password  
+Role 				Username			Password
+
 HR manager 			H1234R 				12341234
+
 Consultant			O1234D 				611182
+
 Clerk				C1234K 				633665
+
 Renal Technician 	X1234Y				675925
+
 Lab Technician 		L1234B 				618524
+
 Nurse (CS ward)		C1234S 				397178	
+
 
 You can create more staff (user accounts ) when you login as HR manager 
 
