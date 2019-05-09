@@ -1,4 +1,4 @@
-# Maintenance and Task Management System 
+# Hospital Management System
 ## Download Instructions 
 Click on clone or download 
 Click download 
